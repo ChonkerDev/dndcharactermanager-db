@@ -1,2 +1,1 @@
-# dndcharactermanager-ui
 # dndcharactermanager-db
