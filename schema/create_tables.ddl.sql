@@ -1,3 +1,4 @@
+USE [dndcharactermanager-db-dev];
 IF NOT EXISTS (SELECT * FROM sys.tables WHERE name = 'Users')
 BEGIN
 CREATE TABLE Users (
